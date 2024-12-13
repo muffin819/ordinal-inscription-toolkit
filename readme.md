@@ -1,4 +1,4 @@
-# Ordinal Inscribing service
+# Ordinal Inscribing service & tools
 
 ## Table of Contents
 
